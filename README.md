@@ -1,5 +1,5 @@
 <h1 align="center">Selam, ben Berkay 👋</h1>
-<h3 align="center">Piri Reis Üniversitesi'nde MIS Öğrencisi | Veri Analizi Tutkunu</h3>
+<h3 align="center">Piri Reis Üniversitesi'nde MIS Öğrencisi | Veri Analizi Adayı</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/berkay-güler-3b179a297">
@@ -46,11 +46,3 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berk0yglr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Berkay's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk0yglr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
