@@ -15,7 +15,7 @@
 ### 🚀 Hakkımda
 
 - 🎓 Piri Reis Üniversitesi'nde **Yönetim Bilişim Sistemleri (MIS)** 3. sınıf öğrencisiyim.
-- 💻 Şu anda aktif olarak **üç farklı uygulama** geliştiriyor ve yeni bir **okul altyapı sistemini** kurmaya çalışıyorum .
+- 💻 Şu anda aktif olarak **üç farklı uygulama** geliştiriyor ve yeni bir **okul altyapı sistemini** kurmaya çalışıyorum.
 - 📊 Ana odağım **Veri Analitiği**, **Python Otomasyonları** ve **SQL Veritabanı Yönetimi**.
 - 🌱 **Java**, **Web Geliştirme** ve **Veri Bilimi** alanlarındaki yeteneklerimi sürekli geliştiriyorum.
 - 🌍 **Hedefim:** Teknoloji ve veri alanındaki uzmanlığımı ileri taşımak için **Almanya'da yüksek lisans** yapmak.
@@ -47,4 +47,8 @@
 ### 📊 GitHub İstatistiklerim
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=berk0yglr&theme=dark&hide_border=true" alt="berk0yglr GitHub Streak" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=berk0yglr&show_icons=true&theme=dark&hide_border=true" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk0yglr&layout=compact&theme=dark&hide_border=true" alt="En Çok Kullanılan Diller" />
 </p>
